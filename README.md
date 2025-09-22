@@ -1,5 +1,8 @@
 # DevOps & Cloud Quiz Questions
 
+
+# Link:https://wizardbrew.github.io/DevOps-Interview-Questions-Beginner/
+
 | Level        | Topic       | Question                                                                            | Answer                                                                                                 |
 |--------------|-------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | Easy         | AWS         | What is EC2 in AWS?                                                                 | EC2 (Elastic Compute Cloud) provides resizable compute capacity in the cloud.                          |
