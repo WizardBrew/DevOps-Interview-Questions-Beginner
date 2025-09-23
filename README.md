@@ -1,4 +1,4 @@
-# DevOps & Cloud Quiz Questions
+# DevOps & Cloud Questions for Interview (Beginners)
 
 
 * https://wizardbrew.github.io/DevOps-Interview-Questions-Beginner/*
